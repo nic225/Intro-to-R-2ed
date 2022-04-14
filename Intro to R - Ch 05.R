@@ -83,6 +83,7 @@ typeof(Time)
 ## Operators
 
 # Programmatically clear the Console
+
 cat("\014")
 
 # How to programmatically remove all variables from Environment
